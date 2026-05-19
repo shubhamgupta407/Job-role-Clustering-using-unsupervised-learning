@@ -1,6 +1,6 @@
 # Job Role Clustering using Unsupervised Machine Learning
 
-## 📌 Project Overview
+## 📌 Project OvervieW
 
 This project focuses on automatically identifying and grouping job roles from raw job descriptions using **unsupervised machine learning techniques**. In many real-world datasets, job titles are either inconsistent or missing, making it difficult to categorize job listings accurately. This system analyzes the **text content of job descriptions** and clusters them into meaningful job role categories without relying on predefined labels.
 
